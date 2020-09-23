@@ -104,16 +104,16 @@ input[type=submit]:hover {
 
 
 
-.display-2{
+.carousel-caption{
     font-size:500%;
 	top: 50%;
 	transform: translateY(-50%);
 }
-.carousel-item {
+/*.carousel-item {
 	-webkit-transform-style: preserve-3d;
 	-moz-transform-style: preserve-3d;
 	transform-style: preserve-3d;
-  }
+  }*/
 /* {
 	position: absolute;
 	top:50%;
