@@ -14,7 +14,7 @@
 @media (max-width: 992px) {
 	.display-2{
 		top:50%;
-		font-size:100%;
+		font-size:300%;
 		}
 
 }
@@ -22,14 +22,14 @@
 @media (max-width: 768px) {
 	.display-2{
 		top:45%;
-		font-size:80%;
+		font-size:200%;
 	}	
   
 }
 @media (max-width: 576px) {
 	.display-2{
 		top:40%;
-		font-size:60%;
+		font-size:100%;
 	}
 	
 	.display-4{
