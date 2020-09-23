@@ -60,6 +60,10 @@
 	padding-left: 5px;
 }
 
+.sticky-top{
+	postion:relative;
+}
+
 html,body{
 	height:100%;
 	width:100%;
