@@ -12,24 +12,17 @@
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
-	.display-2{
+	.carousel-caption{
 		top:50%;
-		font-size:300%;
+		font-size:500%;
 		}
 
 }
 
 @media (max-width: 768px) {
-	.display-2{
+	.carousel-caption{
 		top:45%;
-		font-size:200%;
-	}	
-  
-}
-@media (max-width: 576px) {
-	.display-2{
-		top:40%;
-		font-size:100%;
+		font-size:350%;
 	}
 	
 	.display-4{
@@ -38,6 +31,20 @@
 	
 	.lead{
 		font-size: 100%;
+	}
+}
+@media (max-width: 576px) {
+	.carousel-caption{
+		top:40%;
+		font-size:250%;
+	}
+	
+	.display-4{
+		font-size: 160%;
+	}
+	
+	.lead{
+		font-size: 90%;
 	}
 }
 
